@@ -1,3 +1,4 @@
 import 'package:flutter/material.dart';
 
-const double kDefaultPadding = 20.0;
+const double defaultPadding = 20.0;
+const primaryColor = Colors.deepOrange;
